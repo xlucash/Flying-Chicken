@@ -35,7 +35,7 @@ public class FlyingChicken extends ApplicationAdapter {
 
 	float gap = 550;
 	float maxTubeOffset;
-	float tubeVelocity = 4;
+	float tubeVelocity = 6;
 	int numberOfTubes = 4;
 	float[] tubeX = new float[numberOfTubes];
 	float[] tubeOffset = new float[numberOfTubes];
